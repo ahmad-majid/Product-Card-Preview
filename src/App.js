@@ -35,10 +35,10 @@ const App = () => {
       <footer className="footer">
         <p>
           Challenge by{' '}
-          <a href="https://www.frontendmentor.io/profile/jvssvj" target="_blank">
+          <a href="https://www.frontendmentor.io/profile/ahmad-majid" target="noopener">
             Frontend Mentor
           </a>. Coded by{' '}
-          <a href="https://www.linkedin.com/in/ahmad-majid-957ba9200" target="_blank">
+          <a href="https://www.linkedin.com/in/ahmad-majid-957ba9200" target="noopener">
             Ahmad Majid
           </a>
         </p>
