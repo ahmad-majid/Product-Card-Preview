@@ -1,0 +1,54 @@
+
+
+.centered-box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: hsl(30, 38%, 92%);
+  }
+  
+  .box {
+    background-color: #fff;
+    border-radius: 15px;
+    text-align: center;
+    padding: 30px;
+    max-width: 500px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  .tick-icon {
+    font-size: 48px;
+    color: hsl(158, 36%, 37%);
+    margin-bottom: 20px;
+  }
+  
+  .success-heading {
+    font-family: 'Fraunces', serif;
+    font-size: 24px;
+    color: hsl(212, 21%, 14%);
+    margin-bottom: 10px;
+  }
+  
+  .success-email {
+    font-weight: bold;
+    color: hsl(228, 12%, 48%);
+  }
+  
+  .submit-button {
+    background-color: hsl(158, 36%, 37%);
+    border: none;
+    padding: 14px 24px;
+    border-radius: 12px;
+    color: #fff;
+    font-size: 16px;
+    font-weight: 700;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    margin-top: 20px;
+  }
+  
+  .submit-button:hover {
+    background-color: hsl(158, 36%, 23%);
+  }
+  
